@@ -1,13 +1,9 @@
-import React from 'react';
-import './App.css';
-import Navbar from './Navbar';
+import React from "react";
+import "./App.css";
+import Routes from "./Routes";
 
 function App() {
-  return (
-    <div>
-      <Navbar />
-    </div>
-  );
+  return <Routes />;
 }
 
 export default App;
