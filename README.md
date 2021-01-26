@@ -1,3 +1,11 @@
 ### Projeto semana-dev-superior
 
-Aplicação backend usando Spring FrameWork com Java 
+Sistema de registro e entrega de pedidos.
+
+### BackEnd
+
+Java com Spring Boot.
+
+### FrontEnd
+
+JavaScript/TypeScript.
